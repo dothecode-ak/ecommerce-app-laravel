@@ -1,4 +1,3 @@
- <!-- Footer ================================================================== -->
  <div id="footerSection">
      <div class="container">
          <div class="row">
@@ -36,6 +35,7 @@
                          alt="youtube" /></a>
              </div>
          </div>
-         <p class="pull-right">&copy; Bootshop</p>
-     </div><!-- Container End -->
+         <p class="pull-right">&copy; SBYKart.com <br>Developed by DoTheCode(AK)</p>
+
+     </div>
  </div>
