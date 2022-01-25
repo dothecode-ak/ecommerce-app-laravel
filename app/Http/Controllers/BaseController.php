@@ -10,4 +10,16 @@ class BaseController extends Controller
    {
        return view('ui.home');
    }
+   public function specialOffer()
+   {
+       return view('ui.specialOffer');
+   }
+   public function delivery()
+   {
+       return view('ui.delivery');
+   }
+   public function contact()
+   {
+       return view('ui.contact');
+   }
 }

@@ -43,7 +43,6 @@
     <div id="mainBody">
         <div class="container">
             <div class="row">
-                @include('ui.layout.sidebar')
                 @yield('content')
             </div>
         </div>
