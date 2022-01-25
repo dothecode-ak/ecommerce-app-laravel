@@ -27,11 +27,13 @@
              </div>
              <div id="socialMedia" class="span3 pull-right">
                  <h5>SOCIAL MEDIA </h5>
-                 <a href="#"><img width="60" height="60" src="themes/images/facebook.png" title="facebook"
+                 <a href="#"><img width="50" height="50" src="themes/images/facebook.png" title="facebook"
                          alt="facebook" /></a>
-                 <a href="#"><img width="60" height="60" src="themes/images/twitter.png" title="twitter"
+                 <a href="#"><img width="50" height="50" src="themes/images/whatsup.png" title="whatsup"
+                         alt="whatsup" /></a>
+                 <a href="#"><img width="50" height="50" src="themes/images/twitter.png" title="twitter"
                          alt="twitter" /></a>
-                 <a href="#"><img width="60" height="60" src="themes/images/youtube.png" title="youtube"
+                 <a href="#"><img width="50" height="50" src="themes/images/youtube.png" title="youtube"
                          alt="youtube" /></a>
              </div>
          </div>
