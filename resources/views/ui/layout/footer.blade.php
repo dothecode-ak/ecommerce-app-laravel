@@ -35,7 +35,7 @@
                          alt="youtube" /></a>
              </div>
          </div>
-         <p class="pull-right">&copy; SBYKart.com <br>Developed By DoTheCode(AK) <br>Powered By SBY Technocrates India
+         <p class="pull-right">&copy;SBYKart.com <br>Developed By DoTheCode(AK) <br>Powered By SBY Technocrates India
          </p>
 
      </div>
