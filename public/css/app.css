@@ -1,0 +1,9 @@
+@media only screen and (max-width: 600px) {
+    #footerSection {
+        text-align: center;
+    }
+    .pull-right {
+        float: unset;
+        margin-top: 12px;
+    }
+}

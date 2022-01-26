@@ -34,6 +34,7 @@
         href="{{asset('themes/images/ico/apple-touch-icon-72-precomposed.png')}}">
     <link rel="apple-touch-icon-precomposed" href="{{asset('themes/images/ico/apple-touch-icon-57-precomposed.png')}}">
     <style type="text/css" id="enject"></style>
+    <link rel="stylesheet" href="{{ URL::asset('css/app.css') }}">
 </head>
 
 <body>
