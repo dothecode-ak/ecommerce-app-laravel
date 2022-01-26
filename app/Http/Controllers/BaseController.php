@@ -22,4 +22,12 @@ class BaseController extends Controller
    {
        return view('ui.contact');
    }
+   public function cart()
+   {
+       return view('ui.cart');
+   }
+   public function product()
+   {
+       return view('ui.product');
+   }
 }
