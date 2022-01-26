@@ -6,7 +6,8 @@
         float: unset;
         margin-top: 12px;
     }
-    .brand {
-        margin-top: 0.2rem;
+    .brand>h3 {
+        line-height: unset;
+        margin-top: 0.9rem;
     }
 }
