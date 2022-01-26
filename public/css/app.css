@@ -6,4 +6,7 @@
         float: unset;
         margin-top: 12px;
     }
+    .brand h3 {
+        margin-top: 0.2rem;
+    }
 }
